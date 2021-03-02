@@ -1,5 +1,5 @@
 # Custom-Python-Executable
-Define your own python executable extension and convert your simple python code to an executable application very easily. Make sure you have python.exe on your computer.
+Define your own python executable extension and convert your simple python code to an executable application very easily. Make sure you have python.exe on your computer. I have used my python scripts as executables previously and while pyinstaller worked just fine initially, somehow later a few dependencies weren't met and the exe kept crashing. I tried a few alternatives including py2exe and the like but I couldn't just use them for a long time back then. I stumbled upon ways to define our own executable and thought of putting it out here. Hope this helps someone.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
